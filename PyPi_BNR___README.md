@@ -4,7 +4,7 @@ Follow these steps to add your code to this repository:
 
 1. Create a New Issue
 Use the "New Issue" button in the repository to submit your code.
-Add the tag: Add this to code
+Add the tag: 'Add this to code'
 Be sure to follow the provided template.
 
 2. Fill Out the Submission Template
